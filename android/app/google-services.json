@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1002124475831",
+    "firebase_url": "https://testproject-ae98e.firebaseio.com",
+    "project_id": "testproject-ae98e",
+    "storage_bucket": "testproject-ae98e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002124475831:android:6ca42160f98e352f",
+        "android_client_info": {
+          "package_name": "com.smartherd.firebase_integration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002124475831-j4dmal9hgvfh6f7379i6dvhr250dd6p6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD8KLop3sN5bDa4VVjqoV4zbuXECboUC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002124475831-j4dmal9hgvfh6f7379i6dvhr250dd6p6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
